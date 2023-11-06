@@ -1,0 +1,9 @@
+{
+	"name": "adfaccountnew",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ded557a8-b507-45c6-aed7-5fa2c9eb7201",
+		"tenantId": "c1721880-76a8-4efe-b320-967c7fd1a746"
+	}
+}
